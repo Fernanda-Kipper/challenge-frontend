@@ -13,8 +13,8 @@ The challenge is to implement an e-commerce for the sale of mugs and t-shirts th
 - [x] Product catalog with pagination
 - [x] Filter products by category
 - [x] Search by product name
-- [ ] Add and remove products from cart
-- [ ] Checkout
+- [x] Add and remove products from cart
+- [x] Checkout page
 
 ## 📋 Requirements
 
