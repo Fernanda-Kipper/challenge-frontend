@@ -1,6 +1,11 @@
 # Capputeeno
 
-Welcome! This respostitory contains my solution for [Rocketseat´s](https://www.rocketseat.com.br/ignite?utm_source=influencer&utm_medium=publipost&utm_campaign=lead&utm_term=ignite&utm_content=lead-ignite-publipost-organic-cupom_KIPPERDEV-none-none-none-none-redes_kipperdev&referral=kipperdev&coupon=KIPPERDEV@IGNITE) open source [Frontend Challenge](https://github.com/Rocketseat/frontend-challenge).
+Welcome! This repository contains my solution for [Rocketseat´s](https://www.rocketseat.com.br/ignite?utm_source=influencer&utm_medium=publipost&utm_campaign=lead&utm_term=ignite&utm_content=lead-ignite-publipost-organic-cupom_KIPPERDEV-none-none-none-none-redes_kipperdev&referral=kipperdev&coupon=KIPPERDEV@IGNITE) open source [Frontend Challenge](https://github.com/Rocketseat/frontend-challenge).
+
+This project was developed during a video on my YouTube channel, to help others who are studying to become Frontend Developers.
+
+- [Tutorial Part 1](https://youtu.be/fF-UWgeiELc)
+- [Tutorial Part 2](https://youtu.be/I_thj22FsrE)
 
 ![Prototype](./.github/prototype.png)
 
