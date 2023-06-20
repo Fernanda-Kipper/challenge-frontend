@@ -95,7 +95,7 @@ export function CartItem({
   const handleChange = (e: ChangeEvent<HTMLSelectElement>) => {
     handleUpdateQuantity(product.id, Number(e.target.value))
     toast.success(
-      `Quantidade do ${product.name} alterada para ${e.target.value}`,
+      `Quantidade do(a) ${product.name} alterado(a) para ${e.target.value}`,
       {
         position: 'bottom-center',
       },
