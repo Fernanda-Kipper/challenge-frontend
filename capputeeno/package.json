@@ -19,7 +19,11 @@
     "next": "13.4.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.1",
     "styled-components": "^6.0.0-rc.1",
     "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^1.2.0"
   }
 }
